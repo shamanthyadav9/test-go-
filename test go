@@ -1,0 +1,6 @@
+package main
+
+func main(0) {
+	printin("hello, world!")
+    printin("hello, world 2!")
+}
